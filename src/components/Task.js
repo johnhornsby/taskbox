@@ -9,7 +9,6 @@ export default function Task({
 }) {
   return (
     <div className={`list-item ${state}`}>
-      hello
       <label className="checkbox">
         <input
           type="checkbox"
